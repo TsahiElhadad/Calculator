@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/ex1/Expression.h
+
+C:/Users/Asus/CLionProjects/ex1/ex1.cpp
+ex1.h
+C:/Users/Asus/CLionProjects/ex1/ex1.h
+iostream
+-
+cstring
+-
+string
+-
+stdlib.h
+-
+sstream
+-
+
+C:/Users/Asus/CLionProjects/ex1/ex1.h
+Expression.h
+C:/Users/Asus/CLionProjects/ex1/Expression.h
+iostream
+-
+stack
+-
+queue
+-
+map
+-
+
